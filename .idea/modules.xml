@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RideShare.iml" filepath="$PROJECT_DIR$/RideShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ridesharing-uber-lyft-app/app" />
+      <module fileurl="file://$PROJECT_DIR$/ridesharing-uber-lyft-app.iml" filepath="$PROJECT_DIR$/ridesharing-uber-lyft-app.iml" group="ridesharing-uber-lyft-app" />
+      <module fileurl="file://$PROJECT_DIR$/simulator/simulator.iml" filepath="$PROJECT_DIR$/simulator/simulator.iml" group="ridesharing-uber-lyft-app/simulator" />
     </modules>
   </component>
 </project>
